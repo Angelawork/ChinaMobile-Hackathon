@@ -1,7 +1,7 @@
 
 class Output:
     def __init__(self, path):
-        # 初始化方法，接受输出文件的路径
+        # 初始化方法， 定义输出文件的路径与输出的字符串
         self.path = path
         self.output = ""
 
